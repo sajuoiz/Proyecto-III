@@ -138,3 +138,32 @@ form input:focus, form textarea:focus {
     background-color: #357ab8;
 }
 
+/* Sección de Preguntas Frecuentes */
+#faq {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#faq h2 {
+    text-align: center;
+    color: #4a90e2;
+    margin-bottom: 15px;
+}
+
+#faq ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+#faq ul li {
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #333;
+}
+
+
